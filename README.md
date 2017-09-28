@@ -6,7 +6,9 @@ EventLamp finds dates and times in blocks of text and automatically creates even
 Calendar events can be created using...
 - Natural Language Processing (NLP) from;
   • Text selections
+  
   • Text copied to the clipboard
+  
   • Text shared from other apps
 - Optical Character Recognition (OCR) from
   • Images shared from other apps
