@@ -1,6 +1,7 @@
 # EventLamp
 Quick calendar entry app for Android
-Get it here http://bit.ly/eventlamp
+Get it here 
+http://bit.ly/eventlamp
 
 EventLamp finds dates and times in blocks of text and automatically creates events for your calendar.
 
